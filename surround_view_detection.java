@@ -6,3 +6,4 @@ public class ObstacleDetection {
         System.out.println("Wall");
     }
 }
+ 
